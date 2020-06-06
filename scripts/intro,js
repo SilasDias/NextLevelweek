@@ -1,0 +1,37 @@
+// document.write("Hello")
+// var myVar = "Hello";
+// document.write(myVar)
+
+// Objeto possuem propriedades e funcionalidades
+
+// const pessoa = {
+//   altura: "1,80m",
+//   idade: 24,
+//   solteira: true,
+//   correr(){  //funcionalidade
+//     document.write("Run Forest")
+//     return "Run Forest"
+//   }
+// }
+// document.write(pessoa.correr())
+
+// Array - Vetores coleção de dados
+// const colecaoDeBolinhas = ["blue","green", 1, {name:"My name"}]
+
+// document.write(colecaoDeBolinhas[3].name)
+
+
+// Funções - Funcionalidades - Atalhos - Reuso de codigo
+
+// function sayMyName(name){
+//   document.write(name)
+// }
+// sayMyName("Silas Dias")
+
+// Loop - repetição
+
+// for(i=0; i<10; i++){
+//   document.write(`<p>${i}</p>`) //com crases pode ser usada variavel dentro do write
+// }
+
+
