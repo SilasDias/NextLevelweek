@@ -1,10 +1,12 @@
+
+
 <h1 align="center">
-    <img alt="preview application" src="https://imgur.com/p8avILn.png" width="600px"/>
+  :rocket: NextLevelWeek - Rocketseat
 </h1>
 
-<h3 align="center">
-  :rocket: NextLevelWeek - Rocketseat
-</h3>
+<h2 align="center">
+    <img alt="preview application" src="https://imgur.com/p8avILn.png" width="600px"/>
+</h2>
 
 ## :book: Sobre o projeto:
 
